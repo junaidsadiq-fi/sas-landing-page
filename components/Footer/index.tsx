@@ -32,7 +32,7 @@ const Footer = ({}: FooterProps) => (
             <div className="flex items-center ml-auto xl:absolute xl:right-9 xl:bottom-6 xl:ml-0 md:hidden">
                 <a
                     className="text-base-1 text-palette-5 transition-colors hover:text-palette-1"
-                    href="https://ui8.net/"
+                    href="https://junaid-sadiq.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
@@ -41,7 +41,7 @@ const Footer = ({}: FooterProps) => (
                 <div className="w-0.25 h-4 mx-10 bg-palette-5"></div>
                 <a
                     className="text-base-1 text-palette-5 transition-colors hover:text-palette-1"
-                    href="https://ui8.net/"
+                    href="https://junaid-sadiq.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                 >

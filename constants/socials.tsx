@@ -14,21 +14,21 @@ export const socials = [
     {
         id: "0",
         icon: twitter,
-        url: "https://twitter.com/ui8",
+        url: "https://twitter.com",
     },
     {
         id: "1",
         icon: instagram,
-        url: "https://instagram.com/ui8net/",
+        url: "https://instagram.com/",
     },
     {
         id: "2",
         icon: threads,
-        url: "https://threads.net/ui8net",
+        url: "https://threads.net/",
     },
     {
         id: "3",
         icon: dibbble,
-        url: "https://dribbble.com/UI8",
+        url: "https://dribbble.com/",
     },
 ];

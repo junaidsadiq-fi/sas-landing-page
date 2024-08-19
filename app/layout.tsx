@@ -25,8 +25,8 @@ const source = Source_Code_Pro({
 });
 
 export const metadata: Metadata = {
-    title: "Productize Landing",
-    description: "Productize Landing",
+    title: "Smart Digitize Landing",
+    description: "Smart Digitize Landing",
 };
 
 export default function RootLayout({
