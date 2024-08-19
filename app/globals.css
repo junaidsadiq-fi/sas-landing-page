@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .category:nth-child(1) .category-shadow {
+        @apply -translate-x-[40%] -translate-y-[47%];
+    }
+    .category:nth-child(2) .category-shadow {
+        @apply -translate-x-[65%] -translate-y-[46%];
+    }
+    .category:nth-child(3) .category-shadow {
+        @apply -translate-x-[50%] -translate-y-[46%];
+    }
+    .category:nth-child(4) .category-shadow {
+        @apply -translate-x-[65%] -translate-y-[40%];
+    }
+    .category:nth-child(5) .category-shadow {
+        @apply -translate-x-[43%] -translate-y-[43%];
+    }
+    .category:nth-child(6) .category-shadow {
+        @apply -translate-x-[33%] -translate-y-[40%];
+    }
+    .category:nth-child(7) .category-shadow {
+        @apply -translate-x-[50%] -translate-y-[40%];
+    }
+    .category:nth-child(8) .category-shadow {
+        @apply -translate-x-[45%] -translate-y-[40%];
+    }
+    .category:nth-child(9) .category-shadow {
+        @apply -translate-x-[40%] -translate-y-[30%];
+    }
+    .category:nth-child(10) .category-shadow {
+        @apply -translate-x-[40%] -translate-y-[25%];
+    }
+    .category:nth-child(11) .category-shadow {
+        @apply -translate-x-[40%] -translate-y-[35%];
+    }
+    .faq-content a {
+        @apply text-palette-10 hover:underline;
+    }
+    .benefits-item:nth-child(2) .benefits-preview {
+        @apply w-[7.875rem] h-[7.875rem];
+    }
+}
