@@ -28,6 +28,8 @@ export const metadata: Metadata = {
     title: "Smart Digitize Landing",
     description: "Smart Digitize Landing",
 };
+//favico
+<link rel="icon" href="/favicon.ico" />
 
 export default function RootLayout({
     children,
